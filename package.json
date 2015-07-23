@@ -1,0 +1,22 @@
+{
+  "name": "updog",
+  "version": "0.9.16",
+  "description": "What's updog?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wildlyinaccurate/updog.git"
+  },
+  "keywords": [
+    "updog"
+  ],
+  "author": "Joseph Wynn <joseph@wildlyinaccurate.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wildlyinaccurate/updog/issues"
+  },
+  "homepage": "https://github.com/wildlyinaccurate/updog#readme"
+}
