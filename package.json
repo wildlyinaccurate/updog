@@ -1,6 +1,6 @@
 {
   "name": "updog",
-  "version": "0.9.17",
+  "version": "0.9.18",
   "description": "What's updog?",
   "main": "index.js",
   "scripts": {
